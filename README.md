@@ -5,5 +5,5 @@ Soy estudiante de sistemas de información.
 
 ### Aprendiendo:
 - **Lenguajes**: Python, C#, JavaScript, Kotlin.
-- **Frameworks**: React, Retorofit.
+- **Frameworks**: React.
 - **Bases de Datos**: MySQL, PostgreSQL.
