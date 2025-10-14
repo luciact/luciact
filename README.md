@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lucia C.
 =================================================================================================================================
 
-Soy estudiante de Ingeniería en Sistemas de Información, en proceso de formación como desarrolladora.
+Soy estudiante avanzada de Ingeniería en Sistemas de Información, UTN FRCU.
 
 ## Tecnologías
 <p align="left">
